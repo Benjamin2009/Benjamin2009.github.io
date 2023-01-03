@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### My Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Anxiety and Depression in American Households during COVID-19](/sample_page)
+<img src="anxiety-depression-covid-19.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
