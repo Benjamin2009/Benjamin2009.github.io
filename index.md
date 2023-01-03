@@ -5,7 +5,7 @@
 ### My Projects 
 
 [Anxiety and Depression in American Households during COVID-19](/sample_page)
-<img src="[anxiety-depression-covid-19.jpeg?raw=true](https://github.com/Benjamin2009/anxiety-depression-covid/blob/main/anxiety-depression-covid-19.jpeg)"/>
+<img src="https://github.com/Benjamin2009/anxiety-depression-covid/blob/main/anxiety-depression-covid-19.jpeg"/>
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
