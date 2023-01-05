@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # **<span style="color:#0277BD;"><center>Portfolio</center></span>**
 
 ---
