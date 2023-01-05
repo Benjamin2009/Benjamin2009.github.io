@@ -1,9 +1,9 @@
-## **<span style="color:#0277BD;"><center>Portfolio</center></span>**
+# **<span style="color:#0277BD;"><center>Portfolio</center></span>**
 
 ---
 ---
 
-### **<span style="color:s#0277BD;"><center>My Projects</center></span>**
+## **<span style="color:#0277BD;"><center>My Projects</center></span>**
 
 ---
 #### **<span><center>Anxiety and Depression in American Households during COVID-19</center></span>**
