@@ -1,4 +1,4 @@
-<base target="_blank"> 
+<base target="_blank"> <!-- Add this line at the top so that the clicking the link with open a new tab -->
 
 # **<span style="color:#0277BD;"><center>Portfolio</center></span>**
 
