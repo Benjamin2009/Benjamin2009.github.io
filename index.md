@@ -13,7 +13,7 @@
 
 ---
 #### **<span><center>Unsupervised Learning: Allocating Funding to Countries in Need</center></span>**
-[<img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg"/>](https://nbviewer.org/github/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb#title-four)
+[<img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg"/>](https://nbviewer.org/github/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb)
 
 ---
 #### **<span><center>Anxiety and Depression in American Households during COVID-19</center></span>**
