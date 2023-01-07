@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Hello, I'm Ben! I am passionate about extracting insights from data to improve health outcomes. 
   <br><br>
-  <a href="https://www.linkedin.com/in/BZhang8">View My LinkedIn Profile</a> 
+  <a href="linkedin.com/in/BZhang8/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
