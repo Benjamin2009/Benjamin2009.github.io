@@ -1,4 +1,4 @@
-<base target="_blank"> <!-- Add this line at the top so that the clicking the link with open a new tab -->
+<base target="_blank"> <!-- Add this line at the top so that the clicking the link will open a new tab -->
 
 # **<span style="color:#0277BD;"><center>Portfolio</center></span>**
 
@@ -6,6 +6,10 @@
 ---
 
 ## **<span style="color:#0277BD;"><center>My Projects</center></span>**
+
+---
+#### **<span><center>Drug Review Sentiment Analysis</center></span>**
+[<img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png"/>](https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb)
 
 ---
 #### **<span><center>Predicting Alzheimer's-related Dementia Using Machine Learning</center></span>**
