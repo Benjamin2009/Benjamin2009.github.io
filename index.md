@@ -8,11 +8,11 @@
 ## **<span style="color:#0277BD;"><center>My Projects</center></span>**
 
 ---
-#### **<span><center>Drug Review Sentiment Analysis</center></span>**
+### **<span><center>Drug Review Sentiment Analysis</center></span>**
 [<img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png"/>](https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb)
 
 ---
-#### **<span><center>News Articles Topic Modeling</center></span>**
+### **<span><center>News Articles Topic Modeling</center></span>**
 [<img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg"/>](https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table)
 
 ---
