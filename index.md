@@ -12,6 +12,10 @@
 [<img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png"/>](https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb)
 
 ---
+#### **<span><center>News Articles Topic Modeling</center></span>**
+[<img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg"/>](https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table)
+
+---
 #### **<span><center>Predicting Alzheimer's-related Dementia Using Machine Learning</center></span>**
 [<img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg"/>](https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb)
 
