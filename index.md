@@ -1,4 +1,4 @@
-<base target="_blank"> <!-- Add this line at the top so that the clicking the link will open a new tab -->
+<base target="_blank"> <!-- Add this line at the top so that clicking the link will open a new tab -->
 
 # **<span style="color:#0277BD;"><center>Portfolio</center></span>**
 
@@ -6,6 +6,14 @@
 ---
 
 ## **<span style="color:#0277BD;"><center>My Projects</center></span>**
+
+---
+## **<span><center>Predicting Alzheimer's-related Dementia</center></span>**
+[<img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg"/>](https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb)
+
+---
+## **<span><center>Histopathologic Cancer Detection Using Convolutional Neural Network (CNN)</center></span>**
+[<img src="https://raw.githubusercontent.com/Benjamin2009/histopathologic-cancer-detection/main/histopathologic_cancer_detection.webp"/>](https://nbviewer.org/github/Benjamin2009/histopathologic-cancer-detection/blob/main/histopathologic-cancer-detection.ipynb)
 
 ---
 ## **<span><center>Drug Review Sentiment Analysis</center></span>**
@@ -16,8 +24,7 @@
 [<img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg"/>](https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table)
 
 ---
-## **<span><center>Predicting Alzheimer's-related Dementia</center></span>**
-[<img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg"/>](https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb)
+
 
 ---
 ## **<span><center>Allocating Funding to Countries in Need</center></span>**
