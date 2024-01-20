@@ -21,7 +21,7 @@
 
 ---
 ## **<span><center>Classification of Brain Tumor by Deep Learning with CNN</center></span>**
-[<img src="https://github.com/Benjamin2009/brain-tumor-classification-using-CNN/blob/main/brain_tumor_classification.png"/>](https://nbviewer.org/github/Benjamin2009/brain-tumor-classification-using-CNN/blob/main/brain-tumor-classification-using-cnn.ipynb)
+[<img src="https://raw.githubusercontent.com/Benjamin2009/brain-tumor-classification-using-CNN/main/brain_tumor_classification.png"/>](https://nbviewer.org/github/Benjamin2009/brain-tumor-classification-using-CNN/blob/main/brain-tumor-classification-using-cnn.ipynb)
 
 ---
 ## **<span><center>Anxiety and Depression in U.S. during COVID</center></span>**
