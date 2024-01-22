@@ -29,7 +29,7 @@
 
 ---
 ## **<span><center>Allocating Funding to Countries in Need based on Socio-Economic and Health Factors</center></span>**
-[<img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg"/>](https://nbviewer.org/github/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb)
+[<img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg"/>](https://github.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb)
 
 ---
 ## **<span><center>News Articles Topic Modeling</center></span>**
