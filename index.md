@@ -16,7 +16,7 @@
 [<img src="https://raw.githubusercontent.com/Benjamin2009/histopathologic-cancer-detection/main/histopathologic_cancer_detection.webp"/>](https://nbviewer.org/github/Benjamin2009/histopathologic-cancer-detection/blob/main/histopathologic-cancer-detection.ipynb)
 
 ---
-## **<span><center>Drug Review Sentiment Analysis</center></span>**
+## **<span><center>NLP-Based Sentiment Analysis of Drug Review</center></span>**
 [<img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png"/>](https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb)
 
 ---
