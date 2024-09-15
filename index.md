@@ -37,7 +37,7 @@
 
 ---
 ## **<span><center>Patients' Top-Rated Care Experiences (HCAHPS Dashboard)</center></span>**
-[<img src="[https://raw.githubusercontent.com/your-repo/your-image-path/tableau_dashboard_thumbnail.png](https://github.com/Benjamin2009/Benjamin2009.github.io/blob/master/images/Patients%20Top-Rated%20Care%20Experiences.png)"/>](https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes)
+[<img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png"/>](https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes)
 
 ---
 ---
