@@ -1,18 +1,4 @@
-title: Ben Zhang # your name (or website title) here
-logo: "/images/photo_cartoon_circle.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  MS in Data Science <br />
-  PhD in Neuroscience
-  <br><br>
-  Hello, I'm Ben! I am passionate about extracting insights from data to improve health outcomes. 
-  <br><br>
-  <a href="https://www.linkedin.com/in/BZhang8/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-
-title: Ben Zhang # Your name or website title here
+title: Benjamin Zhang # Your name or website title here
 logo: "/images/photo_cartoon_circle.png?raw=true" # Your photo (or logo) here
 description: > # Your text below
   <h2>Ben Zhang</h2>
