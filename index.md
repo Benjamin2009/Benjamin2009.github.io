@@ -1,27 +1,5 @@
-<base target="_blank"> <!-- Makes the links open in a new tab -->
-
-<!-- Left section (Profile) -->
-<div style="float:left; width:30%; padding:20px;">
-  <h2>Ben Zhang</h2>
-  <p style="font-size:18px; line-height: 1.6;">
-    <strong>MS in Data Science</strong> <br />
-    <strong>PhD in Neuroscience</strong> <br/><br/>
-    Hello, I'm Ben! I am passionate about extracting insights from data to improve health outcomes.
-  </p>
-  <br><br>
-  <!-- Social Media Icons -->
-  <div style="display:flex; justify-content:left; gap:15px;">
-    <a href="https://www.linkedin.com/in/BZhang8/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width:40px; height:40px;" />
-    </a>
-    <a href="https://github.com/Benjamin2009" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width:40px; height:40px;" />
-    </a>
-  </div>
-</div>
-
 <!-- Right section (Projects) with sticky Data Science Showcase -->
-<div style="float:right; width:65%; padding:20px;">
+<div style="padding:20px;">
 
   <!-- Data Science Showcase Header with sticky effect -->
   <div style="background-color:#F5F5F5; padding:20px; border-radius:10px; position:sticky; top:0; z-index:1000;">
