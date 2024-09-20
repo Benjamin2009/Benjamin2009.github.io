@@ -1,11 +1,10 @@
 title: Benjamin Zhang # Your name or website title here
 logo: "/images/photo_cartoon_circle.png?raw=true" # Your photo (or logo) here
 description: > # Your text below
-  <h2>Ben Zhang</h2>
   <p style="font-size:18px; line-height: 1.6;">
   <strong>MS in Data Science</strong> <br />
   <strong>PhD in Neuroscience</strong> <br/><br/>
-  Hello, I'm Ben! I am passionate about extracting insights from data to improve health outcomes.
+  Hello, I'm Ben! I am passionate about extracting insights from data to improve health.
   </p>
   <br><br>
   <!-- Social Media Icons -->
