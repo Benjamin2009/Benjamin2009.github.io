@@ -10,3 +10,19 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+
+title: Ben Zhang # Your name or website title here
+logo: "/images/photo_cartoon_circle.png?raw=true" # Your photo (or logo) here
+description: > # Your text below
+  <h2>Ben Zhang</h2>
+  <p style="font-size:18px; line-height: 1.6;">
+  <strong>MS in Data Science</strong> <br />
+  <strong>PhD in Neuroscience</strong> <br/><br/>
+  Hello, I'm Ben! I am passionate about extracting insights from data to improve health outcomes.
+  </p>
+  <br><br>
+  <a href="https://www.linkedin.com/in/BZhang8/" target="_blank" style="background-color:#0277BD; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-size:16px;">View My LinkedIn Profile</a>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # Your Google Analytics tracking ID here
