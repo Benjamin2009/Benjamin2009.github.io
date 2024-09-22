@@ -1,9 +1,9 @@
 <div style="padding:20px;">
 
-  <!-- Data Science Showcase Header with sticky effect -->
-  <div style="background-color:#F5F5F5; padding:20px; border-radius:10px; position:sticky; top:0; z-index:1000;">
-    <h2 style="text-align:center; color:#0277BD; font-weight:bold;">Data Science Showcase</h2>
-  </div>
+<!-- Data Science Showcase Header with larger font and centered text -->
+<div style="background-color:#F5F5F5; padding:30px; border-radius:10px; position:sticky; top:0; z-index:1000;">
+  <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:32px;">Data Science Showcase</h2>
+</div>
 
   <!-- Project: Alzheimer's-related Dementia -->
   <hr>
