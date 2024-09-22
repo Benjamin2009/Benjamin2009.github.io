@@ -14,16 +14,16 @@
 
   <!-- Project: Predicting Emergency Hospital Admissions -->
   <hr>
-  <h4 style="text-align:center; font-size:20px;">Predicting Alzheimer's-related Dementia</h4>
-  <a href="https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb">
+  <h4 style="text-align:center; font-size:20px;">Predicting Emergency Hospital Admissions</h4>
+  <a href="https://nbviewer.org/github/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/Hospital_Admission_Football_Injury_2019-2023.ipynb">
     <img src="https://github.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/ER_Football_Injury.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="ER_Football_Injury" />
   </a>
 
-  <!-- Project: Histopathologic Cancer Detection Using CNN -->
+  <!-- Project: Anxiety and Depression during COVID -->
   <hr>
-  <h4 style="text-align:center; font-size:20px;">Histopathologic Cancer Detection Using CNN</h4>
-  <a href="https://nbviewer.org/github/Benjamin2009/histopathologic-cancer-detection/blob/main/histopathologic-cancer-detection.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/histopathologic-cancer-detection/main/histopathologic_cancer_detection.webp" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Cancer Detection Project Image" />
+  <h4 style="text-align:center; font-size:20px;">Anxiety and Depression in U.S. during COVID</h4>
+  <a href="https://nbviewer.org/github/Benjamin2009/anxiety-depression-covid/blob/main/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb">
+    <img src="https://raw.githubusercontent.com/Benjamin2009/anxiety-depression-covid/main/anxiety-depression-covid-19.jpeg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Anxiety and Depression Project Image" />
   </a>
 
   <!-- Project: NLP-Based Sentiment Analysis -->
@@ -39,12 +39,12 @@
   <a href="https://nbviewer.org/github/Benjamin2009/brain-tumor-classification-using-CNN/blob/main/brain-tumor-classification-using-cnn.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/brain-tumor-classification-using-CNN/main/brain_tumor_classification.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Brain Tumor Classification Project Image" />
   </a>
-
-  <!-- Project: Anxiety and Depression during COVID -->
+  
+  <!-- Project: Histopathologic Cancer Detection Using CNN -->
   <hr>
-  <h4 style="text-align:center; font-size:20px;">Anxiety and Depression in U.S. during COVID</h4>
-  <a href="https://nbviewer.org/github/Benjamin2009/anxiety-depression-covid/blob/main/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/anxiety-depression-covid/main/anxiety-depression-covid-19.jpeg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Anxiety and Depression Project Image" />
+  <h4 style="text-align:center; font-size:20px;">Histopathologic Cancer Detection Using CNN</h4>
+  <a href="https://nbviewer.org/github/Benjamin2009/histopathologic-cancer-detection/blob/main/histopathologic-cancer-detection.ipynb">
+    <img src="https://raw.githubusercontent.com/Benjamin2009/histopathologic-cancer-detection/main/histopathologic_cancer_detection.webp" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Cancer Detection Project Image" />
   </a>
 
   <!-- Project: Allocating Funding to Countries in Need -->
