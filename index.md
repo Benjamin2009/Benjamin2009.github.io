@@ -16,7 +16,7 @@
   <hr>
   <h4 style="text-align:center; font-size:20px;">Predicting Emergency Hospital Admissions</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/Hospital_Admission_Football_Injury_2019-2023.ipynb">
-    <img src="https://github.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/ER_Football_Injury.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="ER_Football_Injury" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/main/ER_Football_Injury.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="ER_Football_Injury" />
   </a>
 
   <!-- Project: Anxiety and Depression during COVID -->
