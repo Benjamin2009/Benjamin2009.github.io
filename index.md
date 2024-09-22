@@ -72,10 +72,7 @@
   <!-- Project: News Articles Topic Modeling -->
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">News Articles Topic Modeling</h4>
-  <a href="https://nbviewer.org/github/Benjamin2009/News-Articles-TopicHere is the rest of the code that was cut off:
-
-```html
--Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table">
+  <a href="https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table">
     <img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="News Articles Project Image" />
   </a>
   <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;"><strong>Tools/Methods:</strong> Natural Language Processing | Topic Modeling | Latent Dirichlet Allocation (LDA)</p>
