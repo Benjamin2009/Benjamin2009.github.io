@@ -5,11 +5,18 @@
   <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:32px;">Data Science Showcase</h2>
 </div>
 
-  <!-- Project: Alzheimer's-related Dementia -->
+  <!-- Project: Patients' Top-Rated Care Experiences (HCAHPS Dashboard) -->
+  <hr>
+  <h4 style="text-align:center; font-size:22px;">Patients' Top-Rated Care Experiences <br />(HCAHPS Dashboard)</h4>
+  <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Care Experience Dashboard" />
+  </a>
+
+  <!-- Project: Predicting Emergency Hospital Admissions -->
   <hr>
   <h4 style="text-align:center; font-size:20px;">Predicting Alzheimer's-related Dementia</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Alzheimer's-related Dementia Project Image" />
+    <img src="https://github.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/ER_Football_Injury.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="ER_Football_Injury" />
   </a>
 
   <!-- Project: Histopathologic Cancer Detection Using CNN -->
@@ -47,18 +54,18 @@
     <img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Allocating Funding Project Image" />
   </a>
 
+  <!-- Project: Alzheimer's-related Dementia -->
+  <hr>
+  <h4 style="text-align:center; font-size:20px;">Predicting Alzheimer's-related Dementia</h4>
+  <a href="https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb">
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Alzheimer's-related Dementia Project Image" />
+  </a>
+
   <!-- Project: News Articles Topic Modeling -->
   <hr>
   <h4 style="text-align:center; font-size:20px;">News Articles Topic Modeling</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table">
     <img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="News Articles Project Image" />
-  </a>
-
-  <!-- Project: Patients' Top-Rated Care Experiences (HCAHPS Dashboard) -->
-  <hr>
-  <h4 style="text-align:center; font-size:22px;">Patients' Top-Rated Care Experiences <br />(HCAHPS Dashboard)</h4>
-  <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="Care Experience Dashboard" />
   </a>
 
 </div>
