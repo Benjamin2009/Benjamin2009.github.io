@@ -59,7 +59,7 @@
   <a href="https://github.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Allocating Funding Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">clustering | unsupervised learning | Pandas | matplotlib | seaborn</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">clustering | unsupervised learning | pandas | numpy | matplotlib | seaborn</p>
 
   <!-- Project: Alzheimer's-related Dementia -->
   <hr>
