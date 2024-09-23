@@ -1,7 +1,7 @@
 <div style="padding:20px;">
 
-  <!-- Data Science Showcase Header with adjusted padding to center the text -->
-  <div style="background-color:#F5F5F5; padding:25px 30px 25px; border-radius:10px; position:sticky; top:0; z-index:1000;">
+  <!-- Data Science Showcase Header with adjusted width and centered -->
+  <div style="background-color:#F5F5F5; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto;">
     <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:32px;">Data Science Showcase</h2>
   </div>
 
@@ -27,7 +27,7 @@
   <a href="https://nbviewer.org/github/Benjamin2009/anxiety-depression-covid/blob/main/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/anxiety-depression-covid/main/anxiety-depression-covid-19.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Anxiety and Depression Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">National Center for Health Statistics | Survey Data | Matplotlib | plotly</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">National Center for Health Statistics | Survey Data | matplotlib | plotly</p>
 
   <!-- Project: NLP-Based Sentiment Analysis -->
   <hr>
@@ -59,7 +59,7 @@
   <a href="https://github.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Allocating Funding Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">Clustering | Unsupervised Learning | Pandas | Matplotlib | Seaborn</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">clustering | unsupervised learning | Pandas | matplotlib | seaborn</p>
 
   <!-- Project: Alzheimer's-related Dementia -->
   <hr>
@@ -67,7 +67,7 @@
   <a href="https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Alzheimer's-related Dementia Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">OASIS | MRI | Logistic Regression | Random Forest | Support Vector Machine</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">OASIS | MRI | logistic regression | random forest | support vector machine</p>
 
   <!-- Project: News Articles Topic Modeling -->
   <hr>
@@ -75,6 +75,6 @@
   <a href="https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table">
     <img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="News Articles Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">feature extraction | Non-Negative Matrix Factorization | Supervised Learning</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">feature extraction | Non-Negative Matrix Factorization | supervised learning</p>
 
 </div>
