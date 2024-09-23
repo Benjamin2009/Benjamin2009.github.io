@@ -9,7 +9,7 @@
   <hr>
   <h4 style="text-align:center; font-size:22px; margin-bottom:5px;">Patients' Top-Rated Care Experiences <br />(HCAHPS Dashboard)</h4>
   <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:120%; max-width:1000px; border-radius:10px;" alt="Care Experience Dashboard" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Care Experience Dashboard" />
   </a>
   <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">CMS | SQL | Tableau | Data Visualization</p>
 
@@ -17,7 +17,7 @@
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">Predicting Emergency Hospital Admissions</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/Hospital_Admission_Football_Injury_2019-2023.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/main/ER_Football_Injury.png" style="display:block; margin:auto; width:120%; max-width:1000px; border-radius:10px;" alt="ER_Football_Injury" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/main/ER_Football_Injury.png" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="ER_Football_Injury" />
   </a>
   <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">National Electronic Injury Surveillance System | sklearn| pycaret | LightGBM</p>
 
@@ -25,7 +25,7 @@
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">Anxiety and Depression in U.S. during COVID</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/anxiety-depression-covid/blob/main/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/anxiety-depression-covid/main/anxiety-depression-covid-19.jpeg" style="display:block; margin:auto; width:120%; max-width:1000px; border-radius:10px;" alt="Anxiety and Depression Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/anxiety-depression-covid/main/anxiety-depression-covid-19.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Anxiety and Depression Project Image" />
   </a>
   <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">National Center for Health Statistics | Survey Data | Matplotlib | plotly</p>
 
@@ -33,48 +33,48 @@
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">NLP-Based Sentiment Analysis of Drug Review</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png" style="display:block; margin:auto; width:120%; max-width:1000px; border-radius:10px;" alt="Sentiment Analysis Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Sentiment Analysis Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;">pandas | NLP | nltk | BeautifulSoup | wordcloud | TF-IDF</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">pandas | NLP | nltk | BeautifulSoup | wordcloud | TF-IDF</p>
 
   <!-- Project: Classification of Brain Tumor -->
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">Classification of Brain Tumor by Deep Learning with CNN</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/brain-tumor-classification-using-CNN/blob/main/brain-tumor-classification-using-cnn.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/brain-tumor-classification-using-CNN/main/brain_tumor_classification.png" style="display:block; margin:auto; width:103.5%; max-width:920px; border-radius:10px;" alt="Brain Tumor Classification Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/brain-tumor-classification-using-CNN/main/brain_tumor_classification.png" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Brain Tumor Classification Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;">cv2 | Keras | TensorFlow | Convolutional Neural Networks (CNN)</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">cv2 | Keras | TensorFlow | Convolutional Neural Networks (CNN)</p>
   
   <!-- Project: Histopathologic Cancer Detection Using CNN -->
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">Histopathologic Cancer Detection Using CNN</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/histopathologic-cancer-detection/blob/main/histopathologic-cancer-detection.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/histopathologic-cancer-detection/main/histopathologic_cancer_detection.webp" style="display:block; margin:auto; width:103.5%; max-width:920px; border-radius:10px;" alt="Cancer Detection Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/histopathologic-cancer-detection/main/histopathologic_cancer_detection.webp" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Cancer Detection Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;">TensorFlow | Convolutional Neural Networks (CNN) | Image Processing</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">TensorFlow | Convolutional Neural Networks (CNN) | Image Processing</p>
 
   <!-- Project: Allocating Funding to Countries in Need -->
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">Allocating Funding to Countries in Need Based on Socio-Economic and Health Factors</h4>
   <a href="https://github.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg" style="display:block; margin:auto; width:103.5%; max-width:920px; border-radius:10px;" alt="Allocating Funding Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Allocating Funding Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;">Clustering | Unsupervised Learning | Pandas | Matplotlib | Seaborn</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">Clustering | Unsupervised Learning | Pandas | Matplotlib | Seaborn</p>
 
   <!-- Project: Alzheimer's-related Dementia -->
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">Predicting Alzheimer's-related Dementia</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/Alzheimer-dementia-machine-learning/blob/12830e7960286c11413ee35be46ac4eb03a51eba/Predicting%20Alzheimer%27s-related%20Dementia%20Using%20MRI%20Data%20and%20Machine%20Learning%20.ipynb">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" style="display:block; margin:auto; width:103.5%; max-width:920px; border-radius:10px;" alt="Alzheimer's-related Dementia Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="Alzheimer's-related Dementia Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;">OASIS | MRI | Logistic Regression | Random Forest | Support Vector Machine</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">OASIS | MRI | Logistic Regression | Random Forest | Support Vector Machine</p>
 
   <!-- Project: News Articles Topic Modeling -->
   <hr>
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px;">News Articles Topic Modeling</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/News-Articles-Topic-Modeling/blob/main/News%20Articles%20Topic%20Modeling.ipynb#table">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg" style="display:block; margin:auto; width:90%; max-width:800px; border-radius:10px;" alt="News Articles Project Image" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/News-Articles-Topic-Modeling/main/news%20articles.jpg" style="display:block; margin:auto; width:110%; max-width:980px; border-radius:10px;" alt="News Articles Project Image" />
   </a>
-  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555;">feature extraction | Non-Negative Matrix Factorization | Supervised Learning</p>
+  <p style="text-align:center; font-size:14px; margin-top:10px; color: #555; white-space: nowrap;">feature extraction | Non-Negative Matrix Factorization | Supervised Learning</p>
 
 </div>
