@@ -11,7 +11,7 @@
   <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:100%; max-width:980px; border-radius:10px;" alt="Care Experience Dashboard" />
   </a>
-  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; white-space: nowrap;">CMS | SQL | Tableau | Data Visualization</p>
+  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; white-space: nowrap;">Centers for Medicare and Medicaid Services | SQL | Tableau | Data Visualization</p>
 
   <!-- Project: Predicting Emergency Hospital Admissions -->
   <hr style="max-width:980px; margin: 20px auto;">
