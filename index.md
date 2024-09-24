@@ -35,7 +35,7 @@
   <a href="https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png" style="display:block; margin:auto; width:100%; max-width:980px; border-radius:10px;" alt="Sentiment Analysis Project Image" />
   </a>
-  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; white-space: nowrap;">pandas | NLP | nltk | BeautifulSoup | wordcloud | TF-IDF</p>
+  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; white-space: nowrap;">pandas | numpy | RegEx | NLP | nltk | BeautifulSoup | wordcloud | TF-IDF</p>
 
   <!-- Project: Classification of Brain Tumor -->
   <hr style="max-width:980px; margin: 20px auto;">
