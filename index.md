@@ -1,8 +1,8 @@
 <div style="padding:20px;">
 
   <!-- Data Science Showcase Header with adjusted width and centered -->
-  <div style="background-color:#F5F5F5; padding:15px 30px 10px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; width: 100%; max-width: 980px; margin: 0;">
-    <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:34px;">Data Science Showcase</h2>
+  <div style="background-color:#F5F5F5; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto;">
+  <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:32px;">Data Science Showcase</h2>
   </div>
 
   <!-- Project: Patients' Top-Rated Care Experiences (HCAHPS Dashboard) -->
@@ -11,7 +11,7 @@
   <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width: 100%; max-width:980px; border-radius:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Care Experience Dashboard" />
   </a>
-  <p style="text-align:center; font-size:11px; margin-top:10px; color: #555; margin-bottom:15px; white-space:normal;">Centers for Medicare and Medicaid Services | SQL | Tableau | Data Visualization</p>
+  <p style="text-align:center; font-size:12px; margin-top:10px; color: #555; margin-bottom:15px; white-space:normal;">Centers for Medicare and Medicaid Services | SQL | Tableau | Data Visualization</p>
 
   <!-- Project: Predicting Emergency Hospital Admissions -->
   <hr style="max-width:980px; margin: 20px auto;">
@@ -19,7 +19,7 @@
   <a href="https://nbviewer.org/github/Benjamin2009/Predicting-Emergency-Hospital-Admissions/blob/main/Hospital_Admission_Football_Injury_2019-2023.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Predicting-Emergency-Hospital-Admissions/main/ER_Football_Injury.png" style="display:block; margin:auto; width: 110%; max-width:1100px; border-radius:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="ER_Football_Injury" />
   </a>
-  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; margin-bottom:15px; white-space:normal;">National Electronic Injury Surveillance System | sklearn | pycaret | LightGBM</p>
+  <p style="text-align:center; font-size:12px; margin-top:10px; color: #555; margin-bottom:15px; white-space:normal;">National Electronic Injury Surveillance System | sklearn | pycaret | LightGBM</p>
 
   <!-- Project: Anxiety and Depression during COVID -->
   <hr style="max-width:980px; margin: 20px auto;">
