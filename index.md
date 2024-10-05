@@ -1,8 +1,10 @@
-<div style="padding:20px;">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+<div style="padding:20px; font-family:'Roboto', sans-serif; line-height:1.6; color:#333;">
 
   <!-- Data Science Showcase Header with adjusted width and centered -->
-  <div style="background-color:#F5F5F5; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto;">
-    <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:32px;">Data Science Showcase</h2>
+  <div style="background-color:#0277BD; color:#ffffff; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
+    <h2 style="text-align:center; font-weight:bold; font-size:34px;">Data Science Showcase</h2>
   </div>
 
   <!-- Project: Patients' Top-Rated Care Experiences (HCAHPS Dashboard) -->
