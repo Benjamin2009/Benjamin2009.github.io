@@ -1,19 +1,17 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-
-<div style="padding:20px; font-family:'Roboto', sans-serif; line-height:1.6; color:#333;">
+<div style="padding:20px;">
 
   <!-- Data Science Showcase Header with adjusted width and centered -->
-  <div style="background-color:#0277BD; color:#ffffff; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
-    <h2 style="text-align:center; font-weight:bold; font-size:34px;">Data Science Showcase</h2>
+  <div style="background-color:#F5F5F5; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto;">
+    <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:34px;">Data Science Showcase</h2>
   </div>
 
   <!-- Project: Patients' Top-Rated Care Experiences (HCAHPS Dashboard) -->
   <hr style="max-width:980px; margin: 20px auto;">
-  <h4 style="text-align:center; font-size:22px; margin-bottom:5px; max-width:980px; margin:auto;">Patients' Top-Rated Care Experiences <br />(HCAHPS Dashboard)</h4>
+  <h4 style="text-align:center; font-size:24px; font-weight:bold; color:#0277BD; margin-bottom:15px;">Patients' Top-Rated Care Experiences <br />(HCAHPS Dashboard)</h4>
   <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
-    <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:100%; max-width:980px; border-radius:10px;" alt="Care Experience Dashboard" />
+    <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width:100%; max-width:980px; border-radius:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Care Experience Dashboard" />
   </a>
-  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; white-space: nowrap;">Centers for Medicare and Medicaid Services | SQL | Tableau | Data Visualization</p>
+  <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; margin-bottom:15px;">Centers for Medicare and Medicaid Services | SQL | Tableau | Data Visualization</p>
 
   <!-- Project: Predicting Emergency Hospital Admissions -->
   <hr style="max-width:980px; margin: 20px auto;">
