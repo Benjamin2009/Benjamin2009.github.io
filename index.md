@@ -24,7 +24,7 @@
   <!-- Project: Anxiety and Depression during COVID -->
   <hr style="max-width:980px; margin: 20px auto;">
   <h4 style="text-align:center; font-size:20px; margin-bottom:5px; max-width:980px; margin:auto;">Anxiety and Depression in U.S. during COVID</h4>
-  <a href="https://nbviewer.org/github/Benjamin2009/anxiety-depression-covid/blob/main/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb">
+  <a href="https://notebooks.gesis.org/binder/jupyter/user/benjamin2009-an-epression-covid-f3ttn4gi/notebooks/Anxiety%20and%20Depression%20in%20American%20Households%20during%20COVID-19.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/anxiety-depression-covid/main/anxiety-depression-covid-19.jpeg" style="display:block; margin:auto; width:100%; max-width:980px; border-radius:10px;" alt="Anxiety and Depression Project Image" />
   </a>
   <p style="text-align:center; font-size:13px; margin-top:10px; color: #555; white-space: nowrap;">National Center for Health Statistics | Survey Data | matplotlib | plotly</p>
