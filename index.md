@@ -7,7 +7,7 @@
 
   <!-- Project: Patients' Top-Rated Care Experiences (HCAHPS Dashboard) -->
   <hr style="max-width:980px; margin: 20px auto;">
-  <h4 style="text-align:center; font-size:20px; font-weight:bold; color:#555; margin-bottom:12px;">Patients' Top-Rated Care Experiences <br />(HCAHPS Dashboard)</h4>
+  <h4 style="text-align:center; font-size:20px; font-weight:bold; color:#555; margin-bottom:12px;">Patients' Top-Rated Healthcare Experiences</h4>
   <a href="https://public.tableau.com/app/profile/ben.zhang1936/viz/PatientsTop-RatedCareExperiences/HCAHPSDashboard?publish=yes">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Benjamin2009.github.io/master/images/Patients%20Top-Rated%20Care%20Experiences.png" style="display:block; margin:auto; width: 100%; max-width:980px; border-radius:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Care Experience Dashboard" />
   </a>
