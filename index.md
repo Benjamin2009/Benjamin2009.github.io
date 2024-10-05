@@ -31,7 +31,7 @@
 
   <!-- Project: NLP-Based Sentiment Analysis -->
   <hr style="max-width:980px; margin: 20px auto;">
-  <h4 style="text-align:center; font-size:20px; margin-bottom:5px; max-width:1100px; margin:auto;">NLP-Based Sentiment Analysis of Drug Review</h4>
+  <h4 style="text-align:center; font-size:20px; margin-bottom:5px; max-width:1100px; margin:auto;">Drug Review Sentiment Analysis</h4>
   <a href="https://nbviewer.org/github/Benjamin2009/Drug-Review-Sentiment-Analysis/blob/main/Drug_Review_Sentiment_Analysis.ipynb">
     <img src="https://raw.githubusercontent.com/Benjamin2009/Drug-Review-Sentiment-Analysis/main/Drug-Review.png" style="display:block; margin:auto; width: 100%; max-width:980px; border-radius:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Sentiment Analysis Project Image" />
   </a>
