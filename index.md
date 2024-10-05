@@ -1,7 +1,7 @@
 <div style="padding:20px;">
 
   <!-- Data Science Showcase Header with adjusted width and centered -->
-  <div style="background-color:#F5F5F5; padding:25px 30px; border-radius:10px; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto;">
+  <div style="background-color:#E0E0E0; padding:25px 30px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;; position:sticky; top:0; z-index:1000; max-width: 980px; margin: 0 auto;">
   <h2 style="text-align:center; color:#0277BD; font-weight:bold; font-size:32px;">Data Science Showcase</h2>
   </div>
 
